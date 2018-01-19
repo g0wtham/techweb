@@ -27,3 +27,11 @@ a.white-menu:hover {
 .navbar {
   padding: 2% 5% 0% 0%;
 }
+
+@media only screen and (max-device-width: 480px) {
+  .logo {
+    min-width: 600px;
+    height: auto;
+    left: 0%;
+  } 
+}
