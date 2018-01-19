@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+.navbar {
+  background: none;
+  border: none;
+}
+
+a.white-menu:hover {
+  color: orange !important;
+}
+
+.white-menu {
+  color:  #FFF !important;
+  font-size: 20px;
+}
+
+#footer {
+  height: inherit;
+}
+
+.footer-dark, .copyright {
+  width: 100% !important;
+}
+
+.navbar {
+  padding: 2% 5% 0% 0%;
+}
